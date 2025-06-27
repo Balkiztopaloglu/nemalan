@@ -26,27 +26,6 @@ export const metadata: Metadata = {
   },
 };
 
-const infoCards = [
-  {
-    title: "Nem Alma Cihazı Seçerken Nelere Dikkat Edilmeli?",
-    description:
-      "Doğru kapasite, enerji verimliliği ve sessiz çalışma gibi önemli kriterleri öğrenin.",
-    link: "/about",
-  },
-  {
-    title: "Nem ve Sağlık: Bilmeniz Gerekenler",
-    description:
-      "Evdeki nem oranının sağlığınız üzerindeki etkilerini ve ideal değerleri keşfedin.",
-    link: "/about",
-  },
-  {
-    title: "Sıkça Sorulan Sorular (SSS)",
-    description:
-      "Nem alma cihazlarıyla ilgili en çok merak edilen soruların yanıtlarını okuyun.",
-    link: "/about",
-  },
-];
-
 export default function HomePage() {
   return (
     <div className="min-h-screen bg-gradient-to-br from-slate-50 via-sky-50 to-emerald-50">
@@ -61,7 +40,7 @@ export default function HomePage() {
               <span className="text-4xl lg:text-6xl">İçin Nem Alma Cihazları</span>
             </h1>
             <p className="text-xl lg:text-2xl text-gray-600 max-w-4xl mx-auto mb-12 leading-relaxed">
-              2024'ün en iyi nem alma cihazları, uzman tavsiyeleri ve detaylı karşılaştırmaları ile 
+              2024&apos;ün en iyi nem alma cihazları, uzman tavsiyeleri ve detaylı karşılaştırmaları ile 
               evinizde ideal nem seviyesini koruyun.
             </p>
             <div className="flex flex-col sm:flex-row gap-4 justify-center">

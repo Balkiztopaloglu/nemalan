@@ -64,7 +64,7 @@ export default function AboutPage() {
                     </div>
                     <div>
                       <h3 className="font-semibold text-gray-900">Sağlık İçin</h3>
-                      <p className="text-gray-600">Nem oranı %60'ın üzerinde olduğunda küf, mantar ve akarlar ürer. Bu da alerji ve solunum problemlerine neden olur.</p>
+                      <p className="text-gray-600">Nem oranı %60&apos;ın üzerinde olduğunda küf, mantar ve akarlar ürer. Bu da alerji ve solunum problemlerine neden olur.</p>
                     </div>
                   </div>
                   
