@@ -1,0 +1,22 @@
+{
+  "name": "NemAlmaSitesi - Nem Alma Cihazı Tavsiyeleri",
+  "short_name": "NemAlmaSitesi",
+  "description": "2024'ün en iyi nem alma cihazları, fiyatları ve tavsiyeleri",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3b82f6",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+} 
